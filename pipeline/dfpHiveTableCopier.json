@@ -1,0 +1,7 @@
+{
+	"name": "dfpHiveTableCopier",
+	"properties": {
+		"description": "MV: a DFP for accessing Hive table(s) in a Cloudera cluster to copy that data to ADLSg2 as a ___ (TBD)___  type of \"table\"...",
+		"annotations": []
+	}
+}
